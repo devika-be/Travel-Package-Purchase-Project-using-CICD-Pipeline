@@ -12,4 +12,3 @@ A End to  End project using CICD pipeline which will predict that A new Customer
 * [Structure Used](#structure-used)
 * [Run Locally](#Run-Locally)
 * [Deployment Techniques](#deployment-Techniques)
-* 
