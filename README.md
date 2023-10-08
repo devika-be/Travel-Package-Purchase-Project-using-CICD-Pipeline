@@ -22,3 +22,8 @@ We need to analyze the customers' data and information to provide recommendation
 ## ⏳Data Source
 [Travel Package Data](https://www.kaggle.com/code/yogidsba/travelpackageprediction-ensemble-techniques/input)
 
+## Problem Statement
+To predict which customer is more likely to purchase the newly introduced travel package
+Which variables are most significant.
+Which segment of customers should be targeted more.
+
